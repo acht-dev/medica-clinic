@@ -6,7 +6,7 @@
       border: 1px solid;
       padding: 10px;
       border-radius: 10px;
-      background-color: whitesmoke;
+      background-color: white;
       box-shadow: 3px 4px 10px 2px #888888;
       width: 200px;
       height: 300px;
@@ -24,7 +24,7 @@
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
           <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
             <div class="logo-icon1">
-              <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+              <center><img src="{{asset('images/dokter_jam.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
             </div>
             <br/>
             <div class="text-logo1">
@@ -35,33 +35,33 @@
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
           <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
             <div class="logo-icon1">
-              <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+              <center><img src="{{asset('images/dokter_gigi.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
             </div>
             <br/>
             <div class="text-logo1">
-              <h5>Dokter 24 Jam</h5>
+              <h5>Dokter Gigi</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
           <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
             <div class="logo-icon1">
-              <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+              <center><img src="{{asset('images/akunpuntur.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
             </div>
             <br/>
             <div class="text-logo1">
-              <h5>Dokter 24 Jam</h5>
+              <h5 style="text-align: center">Dokter Akupuntur Medis</h5>
             </div>
           </div>
         </div>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
           <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
             <div class="logo-icon1">
-              <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+              <center><img src="{{asset('images/skincare.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
             </div>
             <br/>
             <div class="text-logo1">
-              <h5>Dokter 24 Jam</h5>
+              <h5>Skin Care</h5>
             </div>
           </div>
         </div>

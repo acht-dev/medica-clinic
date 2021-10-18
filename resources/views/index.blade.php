@@ -50,7 +50,7 @@
       border: 1px solid;
       padding: 10px;
       border-radius: 10px;
-      background-color: whitesmoke;
+      background-color: white;
       box-shadow: 3px 4px 10px 2px #888888;
       width: 200px;
       height: 300px;
@@ -137,7 +137,9 @@
               </div>  
               <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
                 <h5>Mewujudkan Sumber Daya Manusian Berkualitas</h5>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, dolorem, eveniet autem minima molestiae incidunt exercitationem deleniti sapiente tempora assumenda inventore similique, quam facilis iste recusandae. Itaque eum iste deleniti!</p>
+                <p>
+                  Untuk mencapai terwujudnya sumber daya manusia yang berkualitas melalui jalur kesehatan yang diutamakan adalah menciptakan pengertian dan kesehatan pemeliharaan kesehatan sejak dini, yang akan mempengaruhi kualitas sumber daya manusia terhadap kualitas aktivitas yang akan dicapai.
+                </p>
               </div>
             </div>
           </div>
@@ -149,8 +151,10 @@
                 <img src="{{asset('images/icon2.JPG')}}" style="border-radius: 50px" />
               </div>  
               <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
-                <h5>Mewujudkan Sumber Daya Manusian Berkualitas</h5>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, dolorem, eveniet autem minima molestiae incidunt exercitationem deleniti sapiente tempora assumenda inventore similique, quam facilis iste recusandae. Itaque eum iste deleniti!</p>
+                <h5>Memberikan Solusi dalam Masalah Kesehatan</h5>
+                <p>
+                  Klinik dewa medika berusaha mengantisipasi kendala - kendala yang muncul dan menghambat kebutuhan kesahatan sumber daya manusia serta memberikan suatu solusi dalam mencapai derajat kesehatan yang layak bagi masyarakat dan karyawan.
+                </p>
               </div>
             </div>
           </div>
@@ -162,8 +166,10 @@
                 <img src="{{asset('images/icon3.JPG')}}" style="border-radius: 50px" />
               </div>  
               <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
-                <h5>Mewujudkan Sumber Daya Manusian Berkualitas</h5>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, dolorem, eveniet autem minima molestiae incidunt exercitationem deleniti sapiente tempora assumenda inventore similique, quam facilis iste recusandae. Itaque eum iste deleniti!</p>
+                <h5>Meringankan Biaya Pemeliharaan kesehatan</h5>
+                <p>
+                  Program yang berhubungan dengan resiko keshatan merupakan suatu hal yang perlu diperhatikan biaya kesehatan dengan biaya tetap dan mendapatkan pelayanan kesehatan secara profesional sehingga dapat meringankan biaya kesehatan.
+                </p>
               </div>
             </div>
           </div>
@@ -175,8 +181,42 @@
                 <img src="{{asset('images/icon4.JPG')}}" style="border-radius: 50px" />
               </div>  
               <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
-                <h5>Mewujudkan Sumber Daya Manusian Berkualitas</h5>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur, dolorem, eveniet autem minima molestiae incidunt exercitationem deleniti sapiente tempora assumenda inventore similique, quam facilis iste recusandae. Itaque eum iste deleniti!</p>
+                <h5>Memberikan Jaminan Kesehatan yang Memuaskan</h5>
+                <p>Untuk memenuhi kebutuhan pemeliharaan kesehatan ini klinik dewa medika membuat program kesehatan yang mempunyai dedikasi, personalitas dan professional tinggi dalam bidangnya masing - masing sehingga konsumen mendapatkan jaminan kesehatan yang memuaskan.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 mb-2">
+          <div class="box-content-visi">
+            <div class="row">
+              <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                <img src="{{asset('images/icon2.JPG')}}" style="border-radius: 50px" />
+              </div>  
+              <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
+                <h5>Visi</h5>
+                <p style="padding-bottom: 3.5rem">
+                  klinik dengan pelayanan 24jam terlengkap, mudah diakses di jakarta
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 mb-2">
+          <div class="box-content-visi">
+            <div class="row">
+              <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+              </div>  
+              <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10 offset-lg-1 offset-md-1 offset-sm-1">
+                <h5>Misi</h5>
+                <p>
+                  <ul>
+                    <li>meningkatkan kualitas layanan penunjang medis</li>
+                    <li>meningkatkan kualitas keahlian tenaga medis</li>
+                    <li>memperluas akses jaringan layanan medis melalui digital marketing</li>
+                  </ul>
+                </p>
               </div>
             </div>
           </div>
@@ -195,7 +235,7 @@
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
         <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
           <div class="logo-icon1">
-            <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+            <center><img src="{{asset('images/dokter_jam.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
           </div>
           <br/>
           <div class="text-logo1">
@@ -206,33 +246,33 @@
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
         <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
           <div class="logo-icon1">
-            <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+            <center><img src="{{asset('images/dokter_gigi.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
           </div>
           <br/>
           <div class="text-logo1">
-            <h5>Dokter 24 Jam</h5>
+            <h5>Dokter Gigi</h5>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
         <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
           <div class="logo-icon1">
-            <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+            <center><img src="{{asset('images/akunpuntur.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
           </div>
           <br/>
           <div class="text-logo1">
-            <h5>Dokter 24 Jam</h5>
+            <h5 style="text-align: center">Dokter Akupuntur Medis</h5>
           </div>
         </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 mb-4">
         <div class="box-content-layanan d-flex flex-column" style="justify-content: center; align-items:center">
           <div class="logo-icon1">
-            <img src="{{asset('images/icon1.JPG')}}" style="border-radius: 50px" />
+            <center><img src="{{asset('images/skincare.JPG')}}" style="border-radius: 50px; width: 70%" /></center>
           </div>
           <br/>
           <div class="text-logo1">
-            <h5>Dokter 24 Jam</h5>
+            <h5>Skin Care</h5>
           </div>
         </div>
       </div>

@@ -17,25 +17,25 @@
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-5">
         <p style="text-align: center; font-weight: bold">Admin Klinik Pulogebang</p>
         <div class="d-flex justify-content-center">
-          <a type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
+          <a href="https://api.whatsapp.com/send?phone=628179007720&text=Saya%20ingin%20bertanya%20mengenai%20layanan%20disini." type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-5">
         <p style="text-align: center; font-weight: bold">Admin Klinik Dewa Ayu Bintara</p>
         <div class="d-flex justify-content-center">
-          <a type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
+          <a href="https://api.whatsapp.com/send?phone=628179007780&text=Saya%20ingin%20bertanya%20mengenai%20layanan%20disini." type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-5">
         <p style="text-align: center; font-weight: bold">Admin Vaksin dan Poli Gigi Dewa Medika</p>
         <div class="d-flex justify-content-center">
-          <a type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
+          <a href="https://api.whatsapp.com/send?phone=628179007730&text=Saya%20ingin%20bertanya%20mengenai%20layanan%20disini." type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
         </div>
       </div>
       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mb-5">
         <p style="text-align: center; font-weight: bold">Admin Home Visit/ Home Care</p>
         <div class="d-flex justify-content-center">
-          <a type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
+          <a href="https://api.whatsapp.com/send?phone=62817132015&text=Saya%20ingin%20bertanya%20mengenai%20layanan%20disini." type="button" class="btn btn-lg button-wa" style="width: 50%; background-color: #128C7E; color: white;">Tanya Disini <img src="{{asset('images/whatsapp.png')}}" style="width: 24px; height: 24px; margin-left: 5%;"/></a>
         </div>
       </div>
     </div>

@@ -20,7 +20,7 @@
 <body>
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div class="container-fluid">
-        <a href="#" class="navbar-brand">
+        <a href="/" class="navbar-brand">
           <img src="{{asset('images/logo.png')}}" style="width: 100px; height: 100px" />
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -57,9 +57,9 @@
           <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 p-5">
             <div class="box-follow-us" style="width: 50%">
               <p style="color: white; font-size: 36px; margin-top:10%; font-weight:bold">Follow Us</p>
-              <a href="" style="color: white; font-size: 24px;">Instagram</a><br/><br/>
-              <a href="" style="color: white; font-size: 24px">Facebook</a><br/><br/>
-              <a href="" style="color: white; font-size: 24px">Youtube</a><br/><br/>
+              <a href="https://www.instagram.com/dewamedikagroup/" style="color: white; font-size: 24px;">Instagram</a><br/><br/>
+              {{-- <a href="" style="color: white; font-size: 24px">Facebook</a><br/><br/>
+              <a href="" style="color: white; font-size: 24px">Youtube</a><br/><br/> --}}
             </div>
           </div>
           <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 p-5">
